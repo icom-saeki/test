@@ -1,3 +1,4 @@
 myfile1
 second
 third add secret
+fourth
